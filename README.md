@@ -1,2 +1,2 @@
-# PRO-C25
-CONTINUATION OF PRO C24
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
